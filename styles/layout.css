@@ -1,0 +1,70 @@
+
+body {
+    background: grey;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.pages {
+    height: 100vh;
+    position: sticky;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.page_1 {
+    background: black;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_2 {
+    background: white;
+    color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_3 {
+    background: black;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_4 {
+    background: white;
+    color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_5 {
+    background: black;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page_6 {
+    background: white;
+    color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
