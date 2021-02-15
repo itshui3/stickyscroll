@@ -1,0 +1,26 @@
+{
+  "name": "stickyscroll",
+  "version": "1.0.0",
+  "description": "scroll effect like flipping pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist & tsc -w",
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itshui3/stickyscroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itshui3/stickyscroll/issues"
+  },
+  "homepage": "https://github.com/itshui3/stickyscroll#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.28",
+    "lite-server": "^2.6.1"
+  }
+}
